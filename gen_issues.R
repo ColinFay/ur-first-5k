@@ -28,7 +28,7 @@ lapply(
       } else {
         cli::cat_rule(
           sprintf(
-            "%s - %s -%s", 
+            "%s - %s", 
             x,
             as.character(current[i, "code"])
           )
