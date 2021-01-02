@@ -8,7 +8,7 @@ current <- wk[wk$week == week,  ]
 
 lapply(
   c(
-    "cervangirard", 
+      "cervangirard", 
     "dianebeldame",
     "eknackstedt",
     "emmavestesson",
@@ -42,7 +42,7 @@ lapply(
             x,
             as.character(current[i, "code"])
           ), 
-          assignee = "ColinFay", 
+          assignee = x, 
           body = as.character(current[i, "workout"])
         )
       }
