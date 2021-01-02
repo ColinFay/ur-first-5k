@@ -36,7 +36,7 @@ lapply(
         gh::gh(
           "POST /repos/:owner/:repo/issues",
           owner = "ColinFay",
-          repo = "testrun",
+          repo = "ur-first-5k",
           title = sprintf(
             "%s - %s", 
             x,
