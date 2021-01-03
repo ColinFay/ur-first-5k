@@ -8,20 +8,21 @@ Running your first 5K by closing GitHub issues.
 ## About
 
 This repo is here to help you get started with running by training you
-to run your first 5k 🎉
+for your first 5k 🎉
 
 ### How it works
 
-Each week during 10 weeks, you’ll be assigned 3 issues (once you’ve
-accepted being a collaborator to the repo, you’ll get assigned to
-tyourissue), each with one running session, plus an optional “cross
-training session” (bike/yoga/pilate/stretching…).
+Each week during 10 weeks, you’ll be assigned 3 issues, each with one
+running session, plus an optional “cross training session”
+(bike/yoga/pilate/stretching…).
 
-Each issue is on the form of “YourGithubName - CODE-Type”, where code is
-Week number (1:10) + session Number (1:3), and Type is a short
-description of the workout. . When you’ve completed the workout, you can
-come and close the issue. Feel free to add a comment on the issue or a
-question if you want to exchange about your experience.
+> Note that o can assign you an issue only once you’ve accepted being a
+> collaborator to the repo. (check your email for the link). Each issue
+> is on the form of “YourGithubName - CODE-Type”, where code is Week
+> number (1:10) + Day Number (1:7), and Type is a short description of
+> the workout. When you’ve completed the workout, you can come and close
+> the issue. Feel free to add a comment on the issue or a question if
+> you want to exchange about your experience.
 
 You can also join a general discussion at
 [ur-first-5k/issues/1](https://github.com/ColinFay/ur-first-5k/issues/1)
@@ -77,29 +78,28 @@ fit your personal preferences.
   - During the intervals, the “recovery walk” should still be an active
     walk: the idea is to keep your cardio up while allowing you to get
     your breath back. In other words, when doing the intervals, don’t
-    stop being active between the running
-segments.
+    stop being active between the running segments.
 
 ## Plan
 
 ### Week one
 
 ``` 
-  ── Day 1 ─────────────────────────────────────────────────────────────────────
+  ── Day 1 ────────────────────────────────────────────────────────────
   → W01D1-Cross Training
   Optional: Rest day, aerobics, yoga, bike...
   
-  ── Day 2 ─────────────────────────────────────────────────────────────────────
+  ── Day 2 ────────────────────────────────────────────────────────────
   → W01D2-Easy Run
   • Mix run and walk, very easy pace, 15 minutes.
   • Cool down, 5 to 10 minutes.
   • Stretch.
   
-  ── Day 3 ─────────────────────────────────────────────────────────────────────
+  ── Day 3 ────────────────────────────────────────────────────────────
   → Rest
   Rest day.
   
-  ── Day 4 ─────────────────────────────────────────────────────────────────────
+  ── Day 4 ────────────────────────────────────────────────────────────
   → W01D4-Intervals
   • Warm up walk, 5 minutes.
   • Repeat 4 times, with 30 seconds rest between each:
@@ -107,15 +107,15 @@ segments.
   • Cool down, 5 to 10 minutes.
   • Stretch.
   
-  ── Day 5 ─────────────────────────────────────────────────────────────────────
+  ── Day 5 ────────────────────────────────────────────────────────────
   → Rest
   Rest day.
   
-  ── Day 6 ─────────────────────────────────────────────────────────────────────
+  ── Day 6 ────────────────────────────────────────────────────────────
   → Rest
   Rest day.
   
-  ── Day 7 ─────────────────────────────────────────────────────────────────────
+  ── Day 7 ────────────────────────────────────────────────────────────
   → W01D7-Easy Run
   • Warm up walk, 5 minutes.
   • Run, easy pace, 5 minutes.
@@ -137,3 +137,6 @@ run](https://www.nhs.uk/live-well/exercise/how-to-stretch-after-a-run/)
 
 [8 Essential Yoga Poses For
 Runners](https://www.runnersworld.co.za/training/8-yoga-poses-for-runners/)
+
+[7 Pilates Exercises That Build a Stronger
+Core](https://www.runnersworld.com/training/a20865857/pilates-exercises-for-runners/)
