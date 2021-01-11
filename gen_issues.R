@@ -1,15 +1,15 @@
-week <- 1
+week <- 2
 library(googlesheets4)
 library(magrittr)
-x <- gs4_auth(email = readLines("~/mail"))
-wk <- read_sheet(readLines("~/sheet"))
+x <- googlesheets4::gs4_auth(email = readLines("~/mail"))
+wk <- googlesheets4::read_sheet(readLines("~/sheet"))
 
 current <- wk[wk$week == week,  ]
 
 lapply(
   c(
-      "cervangirard", 
-    "dianebeldame",
+    "cervangirard",
+    #"dianebeldame",
     "eknackstedt",
     "emmavestesson",
     "MaelaKloareg",
@@ -17,10 +17,13 @@ lapply(
     "pacoramon",
     "BenjaminLouis",
     "felixmil",
-    "fazepher", 
-    "RobWHickman", 
+    "fazepher",
+    #"RobWHickman",
     "clementviolet",
-    "einian85"
+    "einian85",
+    "cderv",
+    "lewishounkpevi", 
+    "jdtrat"
   ), function(x){
     for (i in 1:nrow(current)){
       if ( current[i, "code"] == "Rest"){
@@ -43,7 +46,12 @@ lapply(
             as.character(current[i, "code"])
           ), 
           assignee = x, 
-          body = as.character(current[i, "workout"])
+          body = sprintf(
+            "Hey @%s, here is %s:\n\n%s\n\nFeel free to join the discussion at [ur-first-5k/discussions/66](https://github.com/ColinFay/ur-first-5k/discussions/66)", 
+            x, 
+            as.character(current[i, "code"]),
+            as.character(current[i, "workout"])
+          )
         )
       }
     }

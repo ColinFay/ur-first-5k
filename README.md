@@ -85,21 +85,21 @@ fit your personal preferences.
 ### Week one
 
 ``` 
-  ── Day 1 ────────────────────────────────────────────────────────────
+  ── Day 1 ───────────────────────────────────────────────────────────────────────
   → W01D1-Cross Training
   Optional: Rest day, aerobics, yoga, bike...
   
-  ── Day 2 ────────────────────────────────────────────────────────────
+  ── Day 2 ───────────────────────────────────────────────────────────────────────
   → W01D2-Easy Run
   • Mix run and walk, very easy pace, 15 minutes.
   • Cool down, 5 to 10 minutes.
   • Stretch.
   
-  ── Day 3 ────────────────────────────────────────────────────────────
+  ── Day 3 ───────────────────────────────────────────────────────────────────────
   → Rest
   Rest day.
   
-  ── Day 4 ────────────────────────────────────────────────────────────
+  ── Day 4 ───────────────────────────────────────────────────────────────────────
   → W01D4-Intervals
   • Warm up walk, 5 minutes.
   • Repeat 4 times, with 30 seconds rest between each:
@@ -107,20 +107,70 @@ fit your personal preferences.
   • Cool down, 5 to 10 minutes.
   • Stretch.
   
-  ── Day 5 ────────────────────────────────────────────────────────────
+  ── Day 5 ───────────────────────────────────────────────────────────────────────
   → Rest
   Rest day.
   
-  ── Day 6 ────────────────────────────────────────────────────────────
+  ── Day 6 ───────────────────────────────────────────────────────────────────────
   → Rest
   Rest day.
   
-  ── Day 7 ────────────────────────────────────────────────────────────
+  ── Day 7 ───────────────────────────────────────────────────────────────────────
   → W01D7-Easy Run
   • Warm up walk, 5 minutes.
   • Run, easy pace, 5 minutes.
   • Recovery walk, 5 minutes.
   • Run, easy pace, 5 minutes.
+  • Cool down, 5 to 10 minutes.
+  • Stretch.
+```
+
+### Week two
+
+``` 
+  ── Day 1 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Optional: Rest day, aerobics, yoga, bike...
+  
+  ── Day 2 ───────────────────────────────────────────────────────────────────────
+  → W02D2-Easy Run
+  • Warm up walk, 5 minutes.
+  • Run, easy pace, 5 minutes.
+  • Recovery walk, 5 minutes.
+  • Run, easy pace, 5 minutes.
+  • Cool down, 5 to 10 minutes.
+  • Stretch.
+  
+  ── Day 3 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Rest day.
+  
+  ── Day 4 ───────────────────────────────────────────────────────────────────────
+  → W02D4-Easy Run
+  • Run, easy pace, 5 minutes.
+  • Recovery walk, 3 minutes.
+  • Run, easy pace, 5 minutes.
+  • Recovery walk, 3 minutes.
+  • Run, easy pace, 5 minutes.
+  • Cool down, 5 to 10 minutes.
+  • Stretch.
+  
+  ── Day 5 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Rest day.
+  
+  ── Day 6 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Optional: Swap Sunday's run to today.
+  
+  ── Day 7 ───────────────────────────────────────────────────────────────────────
+  → W02D7-Easy Run
+  • Warm up walk, 2 minutes.
+  • Run, easy pace, 6 minutes.
+  • Recovery walk, 2 minutes.
+  • Run, easy pace, 6 minutes.
+  • Recovery walk, 2 minutes.
+  • Run, easy pace, 6 minutes.
   • Cool down, 5 to 10 minutes.
   • Stretch.
 ```
