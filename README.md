@@ -175,6 +175,212 @@ fit your personal preferences.
   • Stretch.
 ```
 
+### Week three
+
+``` 
+  ── Day 1 ───────────────────────────────────────────────────────────────────────
+  → W03D1-Cross Training
+  Cross train, 30 minutes. Suggestions can be found at: https://github.com/ColinFay/ur-first-5k/discussions/109
+  
+  ── Day 2 ───────────────────────────────────────────────────────────────────────
+  → W03D2-Recovery Run
+  • Run, easy pace, 15 minutes.
+  • Cool down, 5 to 10 minutes.
+  • Stretch.
+  
+  ── Day 3 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Rest day.
+  
+  ── Day 4 ───────────────────────────────────────────────────────────────────────
+  → W03D4-Easy Run
+  • Run, easy pace, 10 minutes.
+  • Recovery walk, 5 minutes.
+  • Run, easy pace, 10 minutes.
+  • Cool down, 5 to 10 minutes.
+  • Stretch
+  
+  ── Day 5 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Rest day.
+  
+  ── Day 6 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Optional: Swap Sunday's run to today.
+  
+  ── Day 7 ───────────────────────────────────────────────────────────────────────
+  → W03D7-Easy Run
+  • Run, easy pace, 15 minutes.
+  • Cool down, 5 to 10 minutes.
+  • Stretch.
+```
+
+### Week four
+
+``` 
+  ── Day 1 ───────────────────────────────────────────────────────────────────────
+  → W04D1-Cross Training
+  Cross train, 30 minutes. Suggestions can be found at: https://github.com/ColinFay/ur-first-5k/discussions/109
+  
+  ── Day 2 ───────────────────────────────────────────────────────────────────────
+  → W04D2-Steady Run
+  • Run, easy pace, 5 minutes.
+  • Run, steady pace, 5 minutes.
+  • Run, easy pace, 5 minutes.
+  • Cool down, 5 to 10 minutes.
+  • Stretch.
+  
+  ── Day 3 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Rest day.
+  
+  ── Day 4 ───────────────────────────────────────────────────────────────────────
+  → W04D4-Easy Run
+  • Warm up walk, 5 minutes.
+  • Run, easy pace, 10 minutes.
+  • Recovery walk, 5 minutes.
+  • Run, easy pace, 10 minutes.
+  • Cool down, 5 to 10 minutes.
+  • Stretch.
+  
+  ── Day 5 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Rest day.
+  
+  ── Day 6 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Optional: Swap Sunday's run to today.
+  
+  ── Day 7 ───────────────────────────────────────────────────────────────────────
+  → W04D7-Easy Run
+  • Run, easy pace, 15 to 20 minutes.
+  • Cool down, 5 to 10 minutes.
+  • Stretch.
+```
+
+### Week five
+
+``` 
+  ── Day 1 ───────────────────────────────────────────────────────────────────────
+  → W05D1-Cross Training
+  Cross train, 30 minutes. Suggestions can be found at: https://github.com/ColinFay/ur-first-5k/discussions/109
+  
+  ── Day 2 ───────────────────────────────────────────────────────────────────────
+  → W05D2-Intervals
+  • Warm up, 15 minutes.
+  • Run, Steady pace, 3 minutes. Recovery run, 2 minutes. Repeat 3 times.
+  • Cool down, 5 to 10 minutes.
+  • Stretch.
+  
+  ── Day 3 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Rest day.
+  
+  ── Day 4 ───────────────────────────────────────────────────────────────────────
+  → W05D4-Easy Run
+  • Warm up walk, 3 minutes.
+  • Run, easy pace, 15 minutes.
+  • Recovery walk, 3 minutes.
+  • Run, easy pace, 15 minutes.
+  • Cool down, 5 to 10 minutes.
+  • Stretch.
+  
+  ── Day 5 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Rest day.
+  
+  ── Day 6 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Optional: Swap Sunday's run to today.
+  
+  ── Day 7 ───────────────────────────────────────────────────────────────────────
+  → W05D7-Easy Run
+  • Run, easy pace, 30 minutes.
+  • Cool down, 5 to 10 minutes.
+  • Stretch.
+```
+
+### Week six
+
+``` 
+  ── Day 1 ───────────────────────────────────────────────────────────────────────
+  → W06D1-Cross Training
+  Cross train, 30 minutes. Suggestions can be found at: https://github.com/ColinFay/ur-first-5k/discussions/109
+  
+  ── Day 2 ───────────────────────────────────────────────────────────────────────
+  → W06D2-Intervals
+  • Warm up, 15 minutes.
+  • Run, steady pace, 3 minutes. Recovery run, 2 minutes. Repeat 4 times.
+  • Cool down, 5 to 10 minutes.
+  • Stretch.
+  
+  ── Day 3 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Rest day.
+  
+  ── Day 4 ───────────────────────────────────────────────────────────────────────
+  → W06D4-Easy Run
+  • Warm up walk, 5 minutes.
+  • Run, easy pace, 25 minutes.
+  • Cool down, 5 to 10 minutes.
+  • Stretch.
+  
+  ── Day 5 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Rest day.
+  
+  ── Day 6 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Optional: Swap Sunday's run to today.
+  
+  ── Day 7 ───────────────────────────────────────────────────────────────────────
+  → W06D7-Easy Run
+  • Run, easy pace, 40 minutes.
+  • Cool down, 5 to 10 minutes.
+  • Stretch.
+```
+
+### Week seven
+
+``` 
+  ── Day 1 ───────────────────────────────────────────────────────────────────────
+  → W07D1-Cross Training
+  Cross train, 30 minutes. Suggestions can be found at: https://github.com/ColinFay/ur-first-5k/discussions/109
+  
+  ── Day 2 ───────────────────────────────────────────────────────────────────────
+  → W07D2-Easy Run
+  • Run, easy pace, 20 minutes.
+  • Cool down, 5 to 10 minutes.
+  • Stretch.
+  
+  ── Day 3 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Rest day.
+  
+  ── Day 4 ───────────────────────────────────────────────────────────────────────
+  → W07D4-Steady Run
+  • Run, easy pace, 5 minutes.
+  • Run, steady pace, 5 minutes.
+  • Run, easy pace, 5 minutes.
+  • Run, steady pace, 5 minutes.
+  • Cool down, 5 to 10 minutes.
+  • Stretch.
+  
+  ── Day 5 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Rest day.
+  
+  ── Day 6 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Optional: Swap Sunday's run to today.
+  
+  ── Day 7 ───────────────────────────────────────────────────────────────────────
+  → W07D7-Easy Run
+  • Run, easy pace, 30 to 40 minutes.
+  • Cool down, 5 to 10 minutes.
+  • Stretch.
+```
+
 ## External links
 
 [The RStats Strava Club](https://www.strava.com/clubs/rstats)

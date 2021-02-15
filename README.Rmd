@@ -100,6 +100,71 @@ for (i in 1:nrow(one)){
 }
 ```
 
+### Week three
+
+```{r echo = FALSE}
+one <- wk[wk$week == 3, 2:ncol(wk) ]
+for (i in 1:nrow(one)){
+  loc <- one[i, ]
+  cli::cat_rule(loc$day)
+  cli::cat_bullet(loc$code, bullet = "arrow_right")
+  cli::cat_line(loc$workout)
+  cli::cat_line()
+}
+```
+
+### Week four
+
+```{r echo = FALSE}
+one <- wk[wk$week == 4, 2:ncol(wk) ]
+for (i in 1:nrow(one)){
+  loc <- one[i, ]
+  cli::cat_rule(loc$day)
+  cli::cat_bullet(loc$code, bullet = "arrow_right")
+  cli::cat_line(loc$workout)
+  cli::cat_line()
+}
+```
+
+### Week five
+
+```{r echo = FALSE}
+one <- wk[wk$week == 5, 2:ncol(wk) ]
+for (i in 1:nrow(one)){
+  loc <- one[i, ]
+  cli::cat_rule(loc$day)
+  cli::cat_bullet(loc$code, bullet = "arrow_right")
+  cli::cat_line(loc$workout)
+  cli::cat_line()
+}
+```
+
+### Week six
+
+```{r echo = FALSE}
+one <- wk[wk$week == 6, 2:ncol(wk) ]
+for (i in 1:nrow(one)){
+  loc <- one[i, ]
+  cli::cat_rule(loc$day)
+  cli::cat_bullet(loc$code, bullet = "arrow_right")
+  cli::cat_line(loc$workout)
+  cli::cat_line()
+}
+```
+
+### Week seven
+
+```{r echo = FALSE}
+one <- wk[wk$week == 7, 2:ncol(wk) ]
+for (i in 1:nrow(one)){
+  loc <- one[i, ]
+  cli::cat_rule(loc$day)
+  cli::cat_bullet(loc$code, bullet = "arrow_right")
+  cli::cat_line(loc$workout)
+  cli::cat_line()
+}
+```
+
 
 ## External links
 
