@@ -381,6 +381,48 @@ fit your personal preferences.
   • Stretch.
 ```
 
+### Week eight
+
+``` 
+  ── Day 1 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Rest day.
+  
+  ── Day 2 ───────────────────────────────────────────────────────────────────────
+  → W08D2-Intervals
+  • Warm up, 15 minutes.
+  • Run, steady pace, 5 minutes. Recovery run, 2 minutes. Repeat 3 times.
+  • Cool down, 5 to 10 minutes.
+  • Stretch.
+  
+  ── Day 3 ───────────────────────────────────────────────────────────────────────
+  → W08D3-Cross Training
+  Cross train, Suggestions can be found at: https://github.com/ColinFay/ur-first-5k/discussions/109
+  
+  ── Day 4 ───────────────────────────────────────────────────────────────────────
+  → W08D4-Steady Run
+  • Run, easy pace, 6 minutes.
+  • Run, steady pace, 6 minutes.
+  • Run, easy pace, 6 minutes.
+  • Run, steady pace, 6 minutes.
+  • Cool down, 5 to 10 minutes.
+  • Stretch.
+  
+  ── Day 5 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Rest day.
+  
+  ── Day 6 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Optional: Swap Sunday's run to today.
+  
+  ── Day 7 ───────────────────────────────────────────────────────────────────────
+  → W08D7-Easy Run
+  • Run, easy pace, 40 minutes.
+  • Cool down, 5 to 10 minutes.
+  • Stretch.
+```
+
 ## External links
 
 [The RStats Strava Club](https://www.strava.com/clubs/rstats)
