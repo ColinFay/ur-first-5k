@@ -178,6 +178,33 @@ for (i in 1:nrow(one)){
 }
 ```
 
+### Week nine
+
+```{r echo = FALSE}
+one <- wk[wk$week == 9, 2:ncol(wk) ]
+for (i in 1:nrow(one)){
+  loc <- one[i, ]
+  cli::cat_rule(loc$day)
+  cli::cat_bullet(loc$code, bullet = "arrow_right")
+  cli::cat_line(loc$workout)
+  cli::cat_line()
+}
+```
+
+### Week 10
+
+```{r echo = FALSE}
+one <- wk[wk$week == 10, 2:ncol(wk) ]
+for (i in 1:nrow(one)){
+  loc <- one[i, ]
+  cli::cat_rule(loc$day)
+  cli::cat_bullet(loc$code, bullet = "arrow_right")
+  cli::cat_line(loc$workout)
+  cli::cat_line()
+}
+```
+
+
 ## External links
 
 [The RStats Strava Club](https://www.strava.com/clubs/rstats)

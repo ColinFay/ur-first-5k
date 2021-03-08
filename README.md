@@ -423,6 +423,84 @@ fit your personal preferences.
   • Stretch.
 ```
 
+### Week nine
+
+``` 
+  ── Day 1 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Rest day.
+  
+  ── Day 2 ───────────────────────────────────────────────────────────────────────
+  → W09D2-Intervals
+  • Warm up, 5 to 10 minutes.
+  • Run, steady pace, 5 minutes. Walk, 2 minutes. Repeat 4 times.
+  • Cool down, 5 to 10 minutes.
+  • Stretch.
+  
+  ── Day 3 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Rest day.
+  
+  ── Day 4 ───────────────────────────────────────────────────────────────────────
+  → W9D4-Steady Run
+  • Run, easy pace, 10 minutes.
+  • Run, steady pace, 10 minutes.
+  • Run, easy pace, 10 minutes.
+  • Cool down, 5 to 10 minutes.
+  • Stretch.
+  
+  ── Day 5 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Rest day.
+  
+  ── Day 6 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Optional: Swap Sunday's run to today.
+  
+  ── Day 7 ───────────────────────────────────────────────────────────────────────
+  → W09D7-Easy Run
+  • Run, easy pace, 30 to 40 minutes.
+  • Cool down, 5 to 10 minutes.
+  • Stretch.
+```
+
+### Week 10
+
+``` 
+  ── Day 1 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Rest day.
+  
+  ── Day 2 ───────────────────────────────────────────────────────────────────────
+  → W10D2-Intervals
+  • Warm up, 15 minutes.
+  • Run, steady pace, 5 minutes. Recovery run, 2 minutes. Repeat 3 times.
+  • Cool down, 5 to 10 minutes.
+  • Stretch.
+  
+  ── Day 3 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Rest day.
+  
+  ── Day 4 ───────────────────────────────────────────────────────────────────────
+  → W10D4-Easy Run
+  • Run, easy pace, 20 minutes.
+  • Cool down, 5 to 10 minutes.
+  • Stretch.
+  
+  ── Day 5 ───────────────────────────────────────────────────────────────────────
+  → Rest
+  Rest day.
+  
+  ── Day 6 ───────────────────────────────────────────────────────────────────────
+  → W10D6-Recovery Run
+  Optional: Swap Sunday's run to today.
+  
+  ── Day 7 ───────────────────────────────────────────────────────────────────────
+  → W10D7-5k Race
+  RACE DAY! GOOD LUCK!
+```
+
 ## External links
 
 [The RStats Strava Club](https://www.strava.com/clubs/rstats)
