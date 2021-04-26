@@ -1,4 +1,4 @@
-week <- 7
+week <- readline("week : ")
 library(googlesheets4)
 library(magrittr)
 x <- googlesheets4::gs4_auth(email = readLines("~/mail"))
@@ -11,20 +11,20 @@ current <- wk[wk$week == week,  ]
 lapply(
   c(
     "cervangirard",
-    #"dianebeldame",
+    "dianebeldame",
     "eknackstedt",
-    # "emmavestesson", ##
+    "emmavestesson", 
     "MaelaKloareg",
-    #"joelgombin", ## 
-    # "pacoramon", ##
-    #"BenjaminLouis", ###
+    "joelgombin", 
+    "pacoramon",
+    "BenjaminLouis", 
     "felixmil",
-    # "fazepher", ###
-    #"RobWHickman",
+    "fazepher", 
+    "RobWHickman",
     "clementviolet",
-    # "einian85", ## 
+    "einian85", 
     "cderv",
-    # "lewishounkpevi", ###
+    "lewishounkpevi", 
     "jdtrat"
   ), function(x){
     for (i in 1:nrow(current)){
