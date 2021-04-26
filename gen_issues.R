@@ -1,8 +1,8 @@
 week <- readline("week : ")
 library(googlesheets4)
 library(magrittr)
-x <- googlesheets4::gs4_auth(email = readLines("~/mail"))
-wk <- googlesheets4::read_sheet(readLines("~/sheet"))
+x <- gs4_auth(email = readLines("~/mail"))
+wk <- read_sheet(readLines("~/sheet"))
 
 current <- wk[wk$week == week,  ]
 
