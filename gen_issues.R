@@ -1,4 +1,4 @@
-week <- readline("week : ")
+week <- readline("Enter the current week of the program ")
 library(googlesheets4)
 library(magrittr)
 x <- gs4_auth(email = readLines("~/mail"))
