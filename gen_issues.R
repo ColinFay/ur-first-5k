@@ -1,40 +1,15 @@
 week <- readline("Enter the current week of the program ")
-library(googlesheets4)
-library(magrittr)
-x <- gs4_auth(email = readLines("~/mail"))
-wk <- read_sheet(readLines("~/sheet"))
+wk <- readr::read_csv("ur-first-5k.csv")
 
 current <- wk[wk$week == week,  ]
-
-
-
-lapply(
-  c(
-    "cervangirard",
-    "dianebeldame",
-    "eknackstedt",
-    "emmavestesson", 
-    "MaelaKloareg",
-    "joelgombin", 
-    "pacoramon",
-    "BenjaminLouis", 
-    "felixmil",
-    "fazepher", 
-    "RobWHickman",
-    "clementviolet",
-    "einian85", 
-    "cderv",
-    "lewishounkpevi", 
-    "jdtrat"
-  ), function(x){
-    for (i in 1:nrow(current)){
+for (i in 1:nrow(current)){
       if ( current[i, "code"] == "Rest"){
         next
       } else {
         cli::cat_rule(
           sprintf(
-            "%s - %s", 
-            x,
+            "%s - %s",
+            "MurielleDelmotte",
             as.character(current[i, "code"])
           )
         )
@@ -43,21 +18,19 @@ lapply(
           owner = "ColinFay",
           repo = "ur-first-5k",
           title = sprintf(
-            "%s - %s", 
-            x,
+            "%s - %s",
+            "MurielleDelmotte",
             as.character(current[i, "code"])
-          ), 
-          assignee = x, 
+          ),
+          # assignee = "MurielleDelmotte",
           body = sprintf(
-            "Hey @%s, here is %s:\n\n%s\n\n", 
-            x, 
+            "Hey @%s, here is %s:\n\n%s\n\n",
+            "MurielleDelmotte",
             as.character(current[i, "code"]),
             as.character(current[i, "workout"])
           )
         )
       }
     }
-  }
-)
 
 
